@@ -16,3 +16,18 @@
 1. [Владельца домашнего животного;](https://drive.google.com/open?id=1ITm7TTHiZT4B3AmNzkQWPHL3uRudo6gb)
 2. [Ветеринара;](https://drive.google.com/open?id=1GLMNFFuKG8xQSQhLt-DOu5CIu5QzIaz4)
 3. [Администратора зоосервиса.](https://drive.google.com/open?id=13F6zH-LYh0TyUAyCicxcYatJNAR5hU7P)
+
+# LICENSE
+
+ZooFriend (c) by Christina Kuleshevich, Angelina Pashkevich, Maryia Nemtsava, Anastasia Kochetkova  (2019)
+
+ZooFriend is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
+
+## Russian Version
+
+Версия лицензии на русском языке: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ru
