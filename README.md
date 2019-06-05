@@ -13,6 +13,6 @@
 
 Прототип мобильного приложения представлен для трех разных пользователей: 
 
-[1. Владельца домашнего животного;](https://drive.google.com/open?id=1ITm7TTHiZT4B3AmNzkQWPHL3uRudo6gb)
-[2. Ветеринара;](https://drive.google.com/open?id=1GLMNFFuKG8xQSQhLt-DOu5CIu5QzIaz4)
-[3. Администратора зоосервиса.](https://drive.google.com/open?id=13F6zH-LYh0TyUAyCicxcYatJNAR5hU7P)
+1. [Владельца домашнего животного;](https://drive.google.com/open?id=1ITm7TTHiZT4B3AmNzkQWPHL3uRudo6gb)
+2. [Ветеринара;](https://drive.google.com/open?id=1GLMNFFuKG8xQSQhLt-DOu5CIu5QzIaz4)
+3. [Администратора зоосервиса.](https://drive.google.com/open?id=13F6zH-LYh0TyUAyCicxcYatJNAR5hU7P)
